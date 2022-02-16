@@ -77,4 +77,4 @@ Awk programs can be ran either in line or via an awk script
 
 ### Disclaimer
 This information is all we have time for within the hour of programming club. If you wish to learn more on
-awk - of which there is much to learn - please visit the [gnu documentation]("https://www.gnu.org/software/gawk/manual/gawk.html")
+awk - of which there is much to learn - please visit the [GNU documentation](https://www.gnu.org/software/gawk/manual/gawk.html)
